@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuelistsServer", "DuelistsServer\DuelistsServer.csproj", "{FB17D64D-B2CF-485D-9F9F-66C55140EB8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuelistsClient", "DuelistsClient\DuelistsClient.csproj", "{2E9F4EC6-BCE8-4E9E-B4FB-D04EAFBB37E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB17D64D-B2CF-485D-9F9F-66C55140EB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB17D64D-B2CF-485D-9F9F-66C55140EB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB17D64D-B2CF-485D-9F9F-66C55140EB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB17D64D-B2CF-485D-9F9F-66C55140EB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9F4EC6-BCE8-4E9E-B4FB-D04EAFBB37E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9F4EC6-BCE8-4E9E-B4FB-D04EAFBB37E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9F4EC6-BCE8-4E9E-B4FB-D04EAFBB37E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9F4EC6-BCE8-4E9E-B4FB-D04EAFBB37E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CD386C-6674-4FA8-A46D-11A869ACEF4F}
+	EndGlobalSection
+EndGlobal
